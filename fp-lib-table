@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name TSOP32ZIF)(type KiCad)(uri ${KIPRJMOD}/TSOP32ZIF.pretty)(options "")(descr ""))
+  (lib (name Wizzard)(type KiCad)(uri ${KIPRJMOD}/Wizzard.pretty)(options "")(descr ""))
+  (lib (name Custom_Connector)(type KiCad)(uri ${KIPRJMOD}/Custom_Connector.pretty)(options "")(descr ""))
+  (lib (name Custom_DIP)(type KiCad)(uri ${KIPRJMOD}/Custom_DIP.pretty)(options "")(descr ""))
+  (lib (name Custom_Resistor)(type KiCad)(uri ${KIPRJMOD}/Custom_Resistor.pretty)(options "")(descr ""))
+)
